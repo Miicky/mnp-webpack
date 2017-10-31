@@ -1,0 +1,12 @@
+{
+  "name": "mvp-webpack",
+  "version": "1.0.0",
+  "description": "Minimum viable  product to run webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igor Micky Pavliv",
+  "license": "ISC"
+}
